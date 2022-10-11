@@ -10,6 +10,7 @@ python3 main.py (Port)
 ```bash
 python3 main.py (Port) (IP address)
 ```
+終了はEscキー
 
 ## 操作方法
 
