@@ -1,5 +1,9 @@
 # walkie_talkie_on_PC
 
+## 動作環境
+LinuxとかMacで動くと思います。
+WSLではうまく動かなかった。
+
 ## 実行方法
 
 サーバ側
