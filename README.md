@@ -57,3 +57,7 @@ python3 main.py (Port) (IP address)
 | `↑`/`↓` | モールス符号の速度を変更する |
 | `←`/`→` | モールス符号の音の周波数を変更する |
 | `Esc` | 通信を終了する |
+
+## Contributors
+
+- [ncrpy](https://twitter.com/ncrpy) - コードを書きました。
