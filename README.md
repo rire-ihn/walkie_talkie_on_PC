@@ -61,3 +61,4 @@ python3 main.py (Port) (IP address)
 ## Contributors
 
 - [ncrpy](https://twitter.com/ncrpy) - コードを書きました。
+- [りれ](https://twitter.com/rire_07) - 1アマです。コードも少し。
