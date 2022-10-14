@@ -4,6 +4,20 @@
 LinuxとかMacで動くと思います。
 WSLではうまく動かなかった。
 
+### 依存ライブラリ
+
+以下のライブラリが必要です。
+pipなどでインストールできます。
+
+- NumPy
+- Pygame
+- python-sounddevice
+
+コマンド例:
+```bash
+pip3 install numpy pygame sounddevice
+```
+
 ## 実行方法
 
 サーバ側
